@@ -1,0 +1,15 @@
+namespace: purestorage
+name: flashblade
+version: 0.1.0
+readme: README.md
+authors: null
+description: null
+license: GPL-3.0-or-later
+license_file: COPYING
+tags: null
+dependencies:
+  community.general: '>=0.1.0'
+repository: git@github.com:coll-test/purestorage.flashblade.git
+documentation: https://github.com/coll-test/purestorage.flashblade/tree/master/docs
+homepage: https://github.com/coll-test/purestorage.flashblade
+issues: https://github.com/coll-test/purestorage.flashblade/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc

@@ -1,0 +1,8 @@
+plugins/modules/purefb_ds.py validate-modules:doc-required-mismatch
+plugins/modules/purefb_ds.py validate-modules:parameter-list-no-elements
+plugins/modules/purefb_dsrole.py validate-modules:doc-required-mismatch
+plugins/modules/purefb_fs.py validate-modules:doc-default-does-not-match-spec
+plugins/modules/purefb_info.py validate-modules:parameter-list-no-elements
+plugins/modules/purefb_info.py validate-modules:return-syntax-error
+plugins/modules/purefb_s3acc.py validate-modules:doc-required-mismatch
+plugins/modules/purefb_s3user.py validate-modules:doc-required-mismatch
